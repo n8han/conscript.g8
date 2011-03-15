@@ -1,0 +1,12 @@
+[app]
+  version: 0.1.0
+  org: $orgId$
+  name: $name$
+  class: $orgId$.App
+[scala]
+  version: 2.8.1
+[repositories]
+  local
+  maven-local
+  scala-tools-releases
+  maven-central
