@@ -2,7 +2,7 @@ package $orgId$
 
 class App extends xsbti.AppMain {
   def run(config: xsbti.AppConfiguration) = {
-    println("Hello World")
+    println("Hello World: " + config.arguments.mkString(" "))
     Exit(0)
   }
 }
