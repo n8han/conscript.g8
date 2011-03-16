@@ -2,6 +2,7 @@ A [giter8][g8] template for creating programs that use [Conscript][cs].
 
     $ g8 n8han/conscript
     # answer questions
+    $ cd my-app
     $ sbt
     > update
     > cs-run app
