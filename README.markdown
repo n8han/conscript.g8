@@ -1,4 +1,4 @@
-A [giter8][g8] template for creating programs that use [Conscript][cs].
+A [giter8][g8] template for creating programs that use [conscript][cs].
 
     $ g8 n8han/conscript
     # answer questions
