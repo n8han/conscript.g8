@@ -1,3 +1,5 @@
+seq(conscriptSettings :_*)
+
 organization := "$orgId$"
 
 name := "$name$"
