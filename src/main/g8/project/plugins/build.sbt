@@ -1,1 +1,1 @@
-addSbtPlugin("net.databinder" % "conscript-plugin" % "0.3.2")
+addSbtPlugin("net.databinder" % "conscript-plugin" % "0.3.3")
